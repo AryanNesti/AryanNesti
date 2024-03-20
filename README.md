@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryannesti&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aryannesti&theme=radical&no-frame=true&no-bg=true&margin-w=4&&rank=-C,-Unknown)
+![](https://github-profile-trophy.vercel.app/?username=aryannesti&theme=radical&no-frame=true&no-bg=true&margin-w=4&&rank=-C,-?)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
