@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on finding a job<br>👯 I’m looking to collaborate on Large Language Models<br>🤝 I’m looking for help with Jenkens Pipelines<br>🌱 I’m currently learning Jenkens Pipeline<br>💬 Ask me about<br>⚡ Fun fact I am very passionate about AI
 
 
 ## 🌐 Socials:
