@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on finding a job<br>👯 I’m looking to collaborate on Large Language Models<br>🤝 I’m looking for help with Jenkens Pipelines<br>🌱 I’m currently learning Jenkens Pipeline<br>💬 Ask me about<br>⚡ Fun fact I am very passionate about AI
+🔭 I’m currently working part-time @ Outlier as a Software Engineer - AI Trainer<br>👯 I’m looking to collaborate on coding projects of all types<br>🤝 I’m looking for help with expanding my knowledge of corporate enviorments<br>🌱 I’m currently learning new AI advances<br>💬 Ask me about my chatbot<br>⚡ Fun fact I am very passionate about AI and programming
 
 
 ## 🌐 Socials:
